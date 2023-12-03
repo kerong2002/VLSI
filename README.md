@@ -1,4 +1,9 @@
 # VLSI
+## Transmission Gate
+|circuit| GT circuit|
+|:----: | :-------: |
+|![img](https://github.com/kerong2002/VLSI/blob/main/photo/circuit_or.png) | ![img](https://github.com/kerong2002/VLSI/blob/main/photo/TG_or.png)|
+
 ## D flip flop
 ![img](https://github.com/kerong2002/VLSI/blob/main/pmos_nmos.png)
 ![img](https://github.com/kerong2002/VLSI/blob/main/d_flip_flop_symbol.png)
