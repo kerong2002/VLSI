@@ -13,3 +13,8 @@
 ## D flip flop
 ![img](https://github.com/kerong2002/VLSI/blob/main/D_flip_flop_circuit.png)
 
+## Half adder
+![img](https://github.com/kerong2002/VLSI/blob/main/photo/half_adder_circuit.png)
+
+## Full adder
+![img](https://github.com/kerong2002/VLSI/blob/main/photo/full_adder.png)
