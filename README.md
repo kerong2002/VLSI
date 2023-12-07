@@ -18,3 +18,6 @@
 
 ## Full adder
 ![img](https://github.com/kerong2002/VLSI/blob/main/photo/full_adder.png)
+
+## Manchester adder
+![img](https://github.com/kerong2002/VLSI/blob/main/photo/Manchester%20circuit.png)
